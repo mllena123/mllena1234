@@ -1,0 +1,62 @@
+/* sei lá me perdi hahahahahah mas tá no index */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  /* cabeçalho */
+#Main-header_top{ 
+    background-color: #333;
+    color:rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* cabeçalho de baixo */
+  #Main-header_bottom{
+    margin: 1;
+    padding: 1;
+    background-color: #cf1508;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    
+  }
+p{
+  MARGIN: 10px;
+}
+  /* listas */
+ul{
+    display: flex;
+    color: aliceblue;
+    list-style: none;
+    justify-content: center;
+   
+  }
+  
+  /* listas  */
+  ul li{
+    margin: 10px;
+    font-size: 15pt;
+    text-transform: uppercase;
+  }
+  
+  /* listas */
+  ul li:hover{
+    background-color: blue;
+    font-size: 16pt;
+  }
+  
+  /* listas */
+  ul li a{
+    
+    color: aliceblue;
+    font-family: Arial;
+  text-decoration: none; 
+  }
+
+  /* rodapé */
+footer{
+    color: aliceblue;
+    justify-content: center;
+  }

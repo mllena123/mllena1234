@@ -1,0 +1,42 @@
+/* cabeçalho */
+* { 
+  margin: 1;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Seleciona a cor da pagina inteira  */
+body {
+  background-color:rgb(61, 57, 57) 
+
+}
+
+/* Seleciona a cor dos paragrafos */
+p{
+  color: aliceblue;
+}
+
+/* Seleciona a cor dos titulos */
+h1{
+  color: aliceblue;
+}
+
+/* muda a cor dos links externos */
+a[href^="https"] {
+  color: rgb(34, 145, 139);
+}
+
+/* class para mudar a cor tipo marca texto */
+b[class~="tiktok"] {
+  color: rgb(20, 129, 129);
+
+}
+
+/* cria uma class propria para uma determina palavra mas não muito recomendada*/
+tiktik{
+  color: blue;
+}
+
+
+
+
