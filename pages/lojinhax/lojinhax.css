@@ -4,3 +4,14 @@ body {
   
   }
   
+  /* Seleciona a cor dos paragrafos */
+p{
+  color: aliceblue;
+  font-family: Tahoma, sans-serif;
+}
+
+/* Seleciona a cor dos titulos */
+h1{
+  color: aliceblue;
+  font-family: Tahoma, sans-serif;
+}

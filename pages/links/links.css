@@ -1,8 +1,4 @@
-* {
-  margin: 1;
-  padding: 0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
+
 /* Seleciona a cor da pagina inteira  */
 body {
     background-color:rgb(61, 57, 57) 
@@ -12,11 +8,13 @@ body {
   /* Seleciona a cor dos paragrafos */
 p{
   color: aliceblue;
+  font-family: Tahoma, sans-serif;
 }
 
 /* Seleciona a cor dos titulos */
 h1{
   color: aliceblue;
+  font-family: Tahoma, sans-serif;
 }
 
 /* muda a cor dos links externos */

@@ -1,6 +1,29 @@
 /* Seleciona a cor da pagina inteira  */
 body {
     background-color:rgb(61, 57, 57) 
-  
   }
+
   
+  /* Seleciona a cor dos paragrafos */
+p{
+  color: aliceblue;
+  font-family: Tahoma, sans-serif;
+}
+
+/* Seleciona a cor dos titulos */
+h1{
+  color: aliceblue;
+  font-family: Tahoma, sans-serif;
+}
+
+/* formar um quadrado */
+#quadrado{
+  background: rgb(24, 124, 119);
+  width: 100px;
+  height: 100px;
+}
+#quadrado{
+  margin: 25px;
+  padding: 25px;
+}
+

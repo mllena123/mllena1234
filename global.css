@@ -22,9 +22,22 @@
     text-align: center;
     
   }
+
+  /* margem de paragrafos */
 p{
   MARGIN: 10px;
 }
+
+/* margem dos links */
+a{
+  MARGIN: 10px;
+}
+
+/* margem do titulo */
+h1{
+  MARGIN: 10px;
+}
+
   /* listas */
 ul{
     display: flex;
