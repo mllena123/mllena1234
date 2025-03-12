@@ -19,11 +19,12 @@ h1{
 /* formar um quadrado */
 #quadrado{
   background: rgb(24, 124, 119);
-  width: 100px;
-  height: 100px;
+  width: 220px;
+  height: 120px;
 }
 #quadrado{
   margin: 25px;
   padding: 25px;
 }
+
 
