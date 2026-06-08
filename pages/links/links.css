@@ -19,11 +19,11 @@ h1{
 
 /* muda a cor dos links externos */
 a[href^="https"] {
-  color: rgb(34, 145, 139);
+  color: rgb(205, 219, 216);
 }
 
 /* Efeito hover para os links de navegação */
 a:hover {
-  background-color: rgb(20, 129, 129); /* Cor de fundo mais escura ao passar o mouse */
-  color: #f3d00b;    /* Muda a cor do texto ao passar o mouse */
+  background-color: rgb(153, 189, 189); /* Cor de fundo mais escura ao passar o mouse */
+  color: #f30b92;    /* Muda a cor do texto ao passar o mouse */
 }

@@ -7,7 +7,7 @@
 
 /* Seleciona a cor da pagina inteira  */
 body {
-  background-color:rgb(61, 57, 57) 
+  background-color:oklch(34.761% 0.00417 16.837) 
 
 }
 
@@ -23,18 +23,18 @@ h1{
 
 /* muda a cor dos links externos */
 a[href^="https"] {
-  color: rgb(34, 145, 139);
+  color: rgb(53, 80, 80);
 }
 
-/* class para mudar a cor tipo marca texto */
+/* class para mudar a cor tipo marca texto paralvras coloridas */  
 b[class~="tiktok"] {
-  color: rgb(20, 129, 129);
+  color: rgb(196, 95, 145);
 
 }
 
 /* cria uma class propria para uma determina palavra mas não muito recomendada*/
 tiktik{
-  color: blue;
+  color: rgb(194, 34, 114);
 }
 
  /* rodapé */
@@ -45,7 +45,7 @@ footer{
 
   /* Efeito hover para os links de navegação */
   a:hover {
-    background-color: rgb(20, 129, 129); /* Cor de fundo mais escura ao passar o mouse */
-    color: #f3d00b;    /* Muda a cor do texto ao passar o mouse */
+    background-color: rgb(153, 189, 189); /* Cor de fundo mais escura ao passar o mouse */
+    color: #f30b92;    /* Muda a cor do texto ao passar o mouse */
 }
 
